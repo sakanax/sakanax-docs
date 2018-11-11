@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sakanax-docs/precache-manifest.a5764075564546f7f03a548207ce6e64.js"
+  "/sakanax-docs/precache-manifest.58e086b9d51c53c9db0d53c189e850fa.js"
 );
 
 workbox.clientsClaim();
