@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/sakanax-docs/static/css/main.f2c008b5.chunk.css"
   },
   {
-    "revision": "9c6833731d11ad91d5c4bc4a6005d5dd",
+    "revision": "ca9535f49a8ba521e66f9ef735b01b33",
     "url": "/sakanax-docs/index.html"
   }
 ];
